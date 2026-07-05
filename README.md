@@ -30,7 +30,7 @@ I want to connect business problems, data, AI systems, psychology and ethics for
 - Data analysis: `pandas`, `numpy`
 - Machine learning: `scikit-learn`, `xgboost`, `joblib`, "Genetic Algorithm"
 - Data visualization: `matplotlib`, `seaborn`, `plotly`
-- NLP / Text mining: `TF-IDF`, `nltk`, `sentence-transformers`
+- NLP / Text mining: `TF-IDF`, `nltk`
 - RAG / Vector search: `LangChain`, `FAISS`, 
 - AI agents: `LangGraph`, `OpenRouter API`, prompt engineering
 - Explainability: `SHAP`, feature importance, Bayesian Network reasoning
