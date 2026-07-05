@@ -6,7 +6,7 @@ I am a Digital Business & Innovation student learning advanced technologies to d
 
 My current focus and developing pathway are **Data Analytics, AI for Positive Computing, AI Agents, Explainable AI, and Enterprise Digital Transformation**.
 
-Spoiler Alert: I love diagram-- mindmap, therefore, most of the documents are filled with diagram
+Spoiler Alert: I love diagram-- mindmap, therefore, most of the documents are filled with diagrams. Thank you!!!
 
 ---
 
