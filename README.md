@@ -167,7 +167,7 @@ flowchart TD
 ---
 
 <details>
-<summary><b>My AI Project Pattern</b></summary>
+<summary><b>My working approach</b></summary>
 
 <br>
 
