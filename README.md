@@ -13,78 +13,150 @@ I want to connect business problems, data, AI systems, psychology and ethics for
 
 ## My Learning Journey
 
-| Stage | Learning / Experience | What it built |
-|---|---|---|
-| Year 1 | Python, R, Computer Networking | Technical foundation |
-| Year 2 | Statistics, Mathematics, Business Principles, Database and Big Data | Data and business foundation |
-| ( Internship-based)Career Practicum Course| IHI corporation | Enterprise problem understanding, bridge risk analysis, business proposal |
-| (Turning point)AI Product Development Course | AI & Intelligent Product Development | Interest in AI ethics and Explainable AI |
-| Year 3 / Early Graduation | Thesis on Bayesian Network + Genetic Algorithm, CIDM 2026 paper submission | Research direction in interpretable machine learning |
-| Current Focus | Mining Unstructured Data, Business Analytics & AI, Customer Analytics & AI, Generative AI | AI engineer for Business Digitalization |
+## My Learning Journey
+
+```mermaid
+timeline
+    title From Digital Business to Applied AI/Data
+
+    Year 1 : Python, R, Computer Networking
+           : Built technical foundation
+
+    Year 2 : Statistics, Mathematics, Business Principles
+           : Database and Big Data
+           : Built data and business foundation
+
+    Career Practicum : IHI & Aster project
+                     : Worked on bridge risk analysis and business proposal
+                     : Team ranked 3rd with 95/100
+
+    Turning Point : AI & Intelligent Product Development
+                  : Became interested in AI ethics and Explainable AI
+
+    Year 3 / Early Graduation : Thesis on Bayesian Network + Genetic Algorithm
+                              : CIDM 2026 paper submission
+                              : Research direction in interpretable machine learning
+
+    Current Focus : Mining Unstructured Data
+                  : Business Analytics & AI
+                  : Customer Analytics & AI
+                  : Generative AI
+                  : Applied AI for business digitalization
 
 ---
 
 ## Technical Skills
 
-### Python / AI / Data
-- Data analysis: `pandas`, `numpy`
-- Machine learning: `scikit-learn`, `xgboost`, `joblib`, "Genetic Algorithm"
-- Data visualization: `matplotlib`, `seaborn`, `plotly`
-- NLP / Text mining: `TF-IDF`, `nltk`
-- RAG / Vector search: `LangChain`, `FAISS`, 
-- AI agents: `LangGraph`, `OpenRouter API`, prompt engineering
-- Explainability: `SHAP`, feature importance, Bayesian Network reasoning
-- Prototype development: `FastAPI`, `Streamlit`
-- Data storage: `SQLite`
-### Other Tools
-- SQL: basic querying, filtering, joins, database concepts
-- R: statistical modeling, regression analysis, data visualization
-- Git/GitHub: version control, documentation, portfolio management
+## Technical Skills
+
+### AI / Data / Machine Learning
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML%20Modeling-orange?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple?style=for-the-badge)
+
+### RAG / AI Agents / Prototyping
+![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI%20Agents-2E8B57?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-0052CC?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-Demo%20App-FF4B4B?style=for-the-badge&logo=streamlit)
+![SQLite](https://img.shields.io/badge/SQLite-Memory%20Storage-003B57?style=for-the-badge&logo=sqlite)
+
+### Business / Research Tools
+![SQL](https://img.shields.io/badge/SQL-Basic%20Querying-4479A1?style=for-the-badge)
+![R](https://img.shields.io/badge/R-Statistical%20Modeling-276DC3?style=for-the-badge&logo=r)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio%20Documentation-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## Featured Projects
 
-| Project | Role | Problem | Input | Output | Result / Finding |
-|---|---|---|---|---|---|
-| **Multi-Agent ElderCare Assistant** | Individual project | Elderly users need simple, safe, and explainable support when facing health, safety, scam, emotional, or daily-life issues. | User messages, conversation memory, care policy documents, care pathway rules | Safe next-step response, activated agents, RAG sources, GraphRAG pathway, caregiver alert, technical trace | Built a controlled multi-agent workflow with hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, and human approval design. |
-| **Bridge Monitoring Intelligence** | Collaborated project / Career Practicum with IHI & Aster | Infrastructure companies need to detect bridge risk, prioritize inspection, and identify potential business opportunities. | Bridge-related data, location/business context, risk indicators, proposal research | Risk analysis, bridge fall-risk insight, client discovery support, business proposal | Acted as a data analyst. Team ranked **3rd** and received **95/100**. This experience connected data analysis with enterprise business problems. |
-| **Interpretable ML Research: Bayesian Network + Genetic Algorithm** | Collaborated research project | Many ML models can predict outcomes but are difficult to interpret for decision-making. | Customer / behavioral data, interpretable feature relationships, research framework | Bayesian Network structure, probabilistic reasoning pathways, interpretable prediction logic | Developed thesis/research direction on interpretable ML. Paper submitted to **CIDM 2026**; result pending. |
+## Featured Projects
 
-## Other Projects
+```mermaid
+flowchart TD
+    A[Applied AI / Data Portfolio]
 
-| Project | Role | Problem | Input | Output | Result / Finding |
-|---|---|---|---|---|---|
-| **Restaurant Review Intelligence** | Class project | Restaurant managers need to detect negative customer reviews and understand complaint patterns. | Restaurant review text, ratings, reviewer information | Negative review prediction, top complaint terms, model comparison, business recommendations | Built an NLP pipeline with TF-IDF, baseline models, Logistic Regression, SVM/Random Forest comparison, target leakage prevention, and explainability. |
-| **Student Success Prediction** | Class project | Online education teams need to identify at-risk students early enough to provide support. | Student demographic data, registration data, learning engagement, assessment performance | At-risk prediction, feature importance, evaluation report, intervention insight | Built a full ML pipeline with data validation, feature engineering, baseline comparison, recall-focused evaluation, and business interpretation. |
+    A --> B[ElderCare Agent]
+    A --> C[Bridge Monitoring Intelligence]
+    A --> D[Interpretable ML Research]
+    A --> E[AI Portfolio Website]
 
----
+    B --> B1[Multi-agent workflow]
+    B --> B2[RAG + lightweight GraphRAG]
+    B --> B3[Guardrails + human approval]
 
-## My AI Project Pattern
+    C --> C1[Bridge risk analysis]
+    C --> C2[Enterprise business proposal]
+    C --> C3[IHI & Aster practicum<br/>3rd place · 95/100]
 
-Every project follows the same thinking process:
+    D --> D1[Bayesian Network]
+    D --> D2[Genetic Algorithm]
+    D --> D3[Explainable prediction pathways]
 
-```text
-Business / User Problem
-→ Data or Knowledge Understanding
-→ AI / ML Pipeline Design
-→ Prototype
-→ Evaluation
-→ Explainability
-→ Business or Social Value
-→ Future Enterprise Roadmap
+    E --> E1[Diagram-based storytelling]
+    E --> E2[Project case studies]
+    E --> E3[Applied AI direction]
+
+
+```markdown
+### Safe Multi-Agent ElderCare Assistant
+**Role:** Individual project  
+**Focus:** Hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, caregiver escalation, technical trace  
+**Value:** Supports elderly users with safer, explainable next-step guidance.
+
+### Bridge Monitoring Intelligence
+**Role:** Collaborated project / IHI & Aster Career Practicum  
+**Focus:** Bridge risk analysis, inspection prioritization, business proposal  
+**Result:** Data analyst role; team ranked **3rd** and received **95/100**.
+
+### Interpretable ML Research: Bayesian Network + Genetic Algorithm
+**Role:** Collaborated research project / thesis direction  
+**Focus:** Interpretable machine learning, probabilistic reasoning, explainable prediction pathways  
+**Status:** Paper submitted to **CIDM 2026**; result pending.
+
+### AI Portfolio Website
+**Role:** Individual project  
+**Focus:** Diagram-based portfolio, project storytelling, GitHub case studies  
+**Value:** Communicates my Applied AI/Data direction clearly.
+
+<details>
+<summary><b>Other Class Projects</b></summary>
+
+<br>
+
+| Project | Role | Focus | Result |
+|---|---|---|---|
+| **Restaurant Review Intelligence** | Class project | NLP, TF-IDF, model comparison, target leakage prevention, explainability | Built a review intelligence pipeline to detect negative reviews and extract complaint patterns. |
+| **Student Success Prediction** | Class project | ML pipeline, feature engineering, recall-focused evaluation, business interpretation | Built an at-risk student prediction pipeline for early intervention support. |
+
+</details>
 ---
 
 ## Development Approach
-I am still developing my coding depth and I aim to become an AI engineer who can:
-- understanding the business or user problem,
-- designing the AI/ML workflow,
+
+I am still developing my coding depth, and I use a structured, AI-assisted development approach to build readable AI/Data prototypes.
+
+My current strengths are:
+- understanding business or user problems,
+- designing AI/ML workflows,
 - researching suitable technical patterns,
 - building readable prototypes,
-- documenting the architecture,
+- documenting architecture,
 - evaluating model behavior,
-- and explaining the business value.
+- and explaining business value.
 
+My next growth areas are:
+- software engineering depth,
+- testing,
+- cloud deployment,
+- security,
+- monitoring,
+- and production-level AI delivery.
 
 
 
