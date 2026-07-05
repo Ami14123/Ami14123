@@ -6,7 +6,7 @@ I am a Digital Business & Innovation student learning advanced technologies to d
 
 My current focus and developing pathway are **Data Analytics, AI for Positive Computing, AI Agents, Explainable AI, and Enterprise Digital Transformation**.
 
-I want to connect **business problems, data, AI systems and ethics** to create practical and explainable AI solutions.
+Spoiler Alert: I love diagram-- mindmap, therefore, most of the documents are filled with diagram
 
 ---
 
