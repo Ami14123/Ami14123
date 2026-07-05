@@ -151,10 +151,7 @@ flowchart TD
 **Focus:** Interpretable machine learning, probabilistic reasoning, and explainable prediction pathways  
 **Status:** Paper submitted to **CIDM 2026**; result pending.
 
-### AI Portfolio Website
-**Role:** Individual project  
-**Focus:** Diagram-based portfolio, project storytelling, GitHub case studies, and personal AI direction  
-**Value:** Communicates my Applied AI/Data direction clearly.
+
 
 </details>
 
@@ -192,7 +189,7 @@ flowchart LR
 
 Every project follows the same thinking process:
 
-**Business/User Problem → Data/Knowledge Understanding → AI/ML Design → Prototype → Evaluation → Explainability → Business/Social Value → Future Enterprise Roadmap**
+**Business/User Problem → Data/Knowledge Understanding → AI/ML Design with Explainability → Prototype → Evaluation → Business/Social Value → Future Enterprise Roadmap**
 
 </details>
 
