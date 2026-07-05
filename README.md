@@ -168,8 +168,10 @@ flowchart TD
 
 <details>
 <summary><b>My working approach</b></summary>
+Every project follows the same thinking process:
 
 <br>
+
 
 ```mermaid
 flowchart LR
@@ -182,9 +184,6 @@ flowchart LR
     G --> H[Future Enterprise Roadmap]
 ```
 
-Every project follows the same thinking process:
-
-**Business/User Problem → Data/Knowledge Understanding → AI/ML Design with Explainability → Prototype → Evaluation → Business/Social Value → Future Enterprise Roadmap**
 
 </details>
 
