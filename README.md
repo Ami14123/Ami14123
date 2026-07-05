@@ -1,12 +1,13 @@
 # Hi, I'm Ami 👋
 
-## Applied AI / Data Talent in Development
+## Applied AI / Data Talent 
 
-I am a Digital Business & Innovation student learning advanced technologies to digitalize business operations and solve real business problems.
+I am a Digital Business & Innovation student 
++ learning advanced technologies to digitalize business operations and solve real business problems.
 
-My current focus is Applied AI, Explainable AI, Generative AI, RAG, GraphRAG, AI agents, business analytics, and ethical AI development.
+My current focus and developing pathway are Data analytics, AI for Positive Computing, AI for Enterprise Digital transformation.
 
-I want to connect business problems, data, AI systems, and explainability to create ethical and practical AI solutions.
+I want to connect business problems, data, AI systems, psychology and ethics for AI solutions.
 
 ---
 
@@ -15,11 +16,11 @@ I want to connect business problems, data, AI systems, and explainability to cre
 | Stage | Learning / Experience | What it built |
 |---|---|---|
 | Year 1 | Python, R, Computer Networking | Technical foundation |
-| Year 2 | Statistics, Mathematics, Business Principles, Database, Big Data | Data and business foundation |
-| Career Practicum | IHI & Aster school-held internship project | Enterprise problem understanding, bridge risk analysis, business proposal |
-| AI Product Course | AI & Intelligent Product Development | Interest in AI ethics and Explainable AI |
+| Year 2 | Statistics, Mathematics, Business Principles, Database and Big Data | Data and business foundation |
+| ( Special)Career Practicum | IHI & Aster school-held internship project | Enterprise problem understanding, bridge risk analysis, business proposal |
+| (Turning point)AI Product Course | AI & Intelligent Product Development | Interest in AI ethics and Explainable AI |
 | Year 3 / Early Graduation | Thesis on Bayesian Network + Genetic Algorithm, CIDM 2026 paper submission | Research direction in interpretable machine learning |
-| Current Focus | Mining Unstructured Data, Business Analytics & AI, Customer Analytics & AI, Generative AI | Applied AI portfolio and enterprise AI direction |
+| Current Focus | Mining Unstructured Data, Business Analytics & AI, Customer Analytics & AI, Generative AI | AI engineer for Business Digitalization |
 
 ---
 
@@ -27,10 +28,10 @@ I want to connect business problems, data, AI systems, and explainability to cre
 
 ### Python / AI / Data
 - Data analysis: `pandas`, `numpy`
-- Machine learning: `scikit-learn`, `xgboost`, `joblib`
+- Machine learning: `scikit-learn`, `xgboost`, `joblib`, "Genetic Algorithm"
 - Data visualization: `matplotlib`, `seaborn`, `plotly`
-- NLP / Text mining: `TF-IDF`, `nltk`, `spaCy`, `sentence-transformers`
-- RAG / Vector search: `LangChain`, `FAISS`, `ChromaDB`
+- NLP / Text mining: `TF-IDF`, `nltk`, `sentence-transformers`
+- RAG / Vector search: `LangChain`, `FAISS`, 
 - AI agents: `LangGraph`, `OpenRouter API`, prompt engineering
 - Explainability: `SHAP`, feature importance, Bayesian Network reasoning
 - Prototype development: `FastAPI`, `Streamlit`
@@ -46,7 +47,7 @@ I want to connect business problems, data, AI systems, and explainability to cre
 ## Featured Projects
 
 ### 1. Safe Multi-Agent ElderCare Assistant
-A controlled and explainable AI agent system for elderly care.
+An explainable multiAI agent system for elderly care.
 
 **Focus:** hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, caregiver escalation, and technical trace.
 
