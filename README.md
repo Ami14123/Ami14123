@@ -51,10 +51,11 @@ I want to connect business problems, data, AI systems, psychology and ethics for
 | **Bridge Monitoring Intelligence** | Collaborated project / Career Practicum with IHI & Aster | Infrastructure companies need to detect bridge risk, prioritize inspection, and identify potential business opportunities. | Bridge-related data, location/business context, risk indicators, proposal research | Risk analysis, bridge fall-risk insight, client discovery support, business proposal | Acted as a data analyst. Team ranked **3rd** and received **95/100**. This experience connected data analysis with enterprise business problems. |
 | **Interpretable ML Research: Bayesian Network + Genetic Algorithm** | Collaborated research project | Many ML models can predict outcomes but are difficult to interpret for decision-making. | Customer / behavioral data, interpretable feature relationships, research framework | Bayesian Network structure, probabilistic reasoning pathways, interpretable prediction logic | Developed thesis/research direction on interpretable ML. Paper submitted to **CIDM 2026**; result pending. |
 
-- Other projects:
+## Other Projects
+
 | Project | Role | Problem | Input | Output | Result / Finding |
 |---|---|---|---|---|---|
-| **Restaurant Review Intelligence** | Class project | Restaurant managers need to detect negative customer reviews and understand complaint patterns. | Restaurant review text, ratings, reviewer information | Negative review prediction, top complaint terms, model comparison, business recommendations | Built an NLP pipeline with TF-IDF, baseline models, Logistic Regression, SVM/Random Forest comparison, leakage prevention, and explainability. |
+| **Restaurant Review Intelligence** | Class project | Restaurant managers need to detect negative customer reviews and understand complaint patterns. | Restaurant review text, ratings, reviewer information | Negative review prediction, top complaint terms, model comparison, business recommendations | Built an NLP pipeline with TF-IDF, baseline models, Logistic Regression, SVM/Random Forest comparison, target leakage prevention, and explainability. |
 | **Student Success Prediction** | Class project | Online education teams need to identify at-risk students early enough to provide support. | Student demographic data, registration data, learning engagement, assessment performance | At-risk prediction, feature importance, evaluation report, intervention insight | Built a full ML pipeline with data validation, feature engineering, baseline comparison, recall-focused evaluation, and business interpretation. |
 
 ---
