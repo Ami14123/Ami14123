@@ -47,11 +47,13 @@ I want to connect business problems, data, AI systems, psychology and ethics for
 
 | Project | Role | Problem | Input | Output | Result / Finding |
 |---|---|---|---|---|---|
-| **Safe Multi-Agent ElderCare Assistant** | Individual project | Elderly users need simple, safe, and explainable support when facing health, safety, scam, emotional, or daily-life issues. | User messages, conversation memory, care policy documents, care pathway rules | Safe next-step response, activated agents, RAG sources, GraphRAG pathway, caregiver alert, technical trace | Built a controlled multi-agent workflow with hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, and human approval design. |
-| **Explainable Bridge Monitoring Intelligence** | Collaborated project / Career Practicum with IHI & Aster | Infrastructure companies need to detect bridge risk, prioritize inspection, and identify potential business opportunities. | Bridge-related data, location/business context, risk indicators, proposal research | Risk analysis, bridge fall-risk insight, client discovery support, business proposal | Acted as a data analyst. Team ranked **3rd** and received **95/100**. This experience connected data analysis with enterprise business problems. |
-| **Explainable Restaurant Review Intelligence** | Individual project | Restaurant managers need to detect negative customer reviews and understand complaint patterns. | Restaurant review text, ratings, reviewer information | Negative review prediction, top complaint terms, model comparison, business recommendations | Built an NLP pipeline with TF-IDF, baseline models, Logistic Regression, SVM/Random Forest comparison, leakage prevention, and explainability. |
-| **Explainable Student Success Prediction** | Individual project | Online education teams need to identify at-risk students early enough to provide support. | Student demographic data, registration data, learning engagement, assessment performance | At-risk prediction, feature importance, evaluation report, intervention insight | Built a full ML pipeline with data validation, feature engineering, baseline comparison, recall-focused evaluation, and business interpretation. |
+| **Multi-Agent ElderCare Assistant** | Individual project | Elderly users need simple, safe, and explainable support when facing health, safety, scam, emotional, or daily-life issues. | User messages, conversation memory, care policy documents, care pathway rules | Safe next-step response, activated agents, RAG sources, GraphRAG pathway, caregiver alert, technical trace | Built a controlled multi-agent workflow with hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, and human approval design. |
+| **Bridge Monitoring Intelligence** | Collaborated project / Career Practicum with IHI & Aster | Infrastructure companies need to detect bridge risk, prioritize inspection, and identify potential business opportunities. | Bridge-related data, location/business context, risk indicators, proposal research | Risk analysis, bridge fall-risk insight, client discovery support, business proposal | Acted as a data analyst. Team ranked **3rd** and received **95/100**. This experience connected data analysis with enterprise business problems. |
 | **Interpretable ML Research: Bayesian Network + Genetic Algorithm** | Collaborated research project | Many ML models can predict outcomes but are difficult to interpret for decision-making. | Customer / behavioral data, interpretable feature relationships, research framework | Bayesian Network structure, probabilistic reasoning pathways, interpretable prediction logic | Developed thesis/research direction on interpretable ML. Paper submitted to **CIDM 2026**; result pending. |
+
+- Other projects:
+| **Restaurant Review Intelligence** | Class project | Restaurant managers need to detect negative customer reviews and understand complaint patterns. | Restaurant review text, ratings, reviewer information | Negative review prediction, top complaint terms, model comparison, business recommendations | Built an NLP pipeline with TF-IDF, baseline models, Logistic Regression, SVM/Random Forest comparison, leakage prevention, and explainability. |
+| **Student Success Prediction** | Class project | Online education teams need to identify at-risk students early enough to provide support. | Student demographic data, registration data, learning engagement, assessment performance | At-risk prediction, feature importance, evaluation report, intervention insight | Built a full ML pipeline with data validation, feature engineering, baseline comparison, recall-focused evaluation, and business interpretation. |
 
 ---
 
@@ -70,11 +72,8 @@ Business / User Problem
 → Future Enterprise Roadmap
 ---
 
-## My AI Project Pattern
-
-I am still developing my coding depth, so I build projects with a structured and Generative AI-assisted development approach.
-
-Instead of trying to write complex production systems from scratch, I focus on:
+## Development Approach
+I am still developing my coding depth and I aim to become an AI engineer who can:
 - understanding the business or user problem,
 - designing the AI/ML workflow,
 - researching suitable technical patterns,
@@ -82,3 +81,7 @@ Instead of trying to write complex production systems from scratch, I focus on:
 - documenting the architecture,
 - evaluating model behavior,
 - and explaining the business value.
+
+
+
+
