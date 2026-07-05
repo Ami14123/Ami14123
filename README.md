@@ -38,47 +38,60 @@ I want to connect **business problems, data, AI systems, psychology, and ethics*
 
 ## My Learning Journey
 
-<div align="left">
+> From Digital Business & Innovation to Applied AI/Data — building the ability to connect business problems, data, AI systems, and explainability.
 
-### 1. Year 1 — Technical Foundation
-**Learning:** Python, R, Computer Networking  
-**Built:** Basic programming, statistical thinking, and networking foundation.
+<table>
+  <tr>
+    <td width="22%"><b>Year 1</b><br/>Technical Foundation</td>
+    <td>
+      <b>Python · R · Computer Networking</b><br/>
+      Built my foundation in programming, statistical thinking, and basic system/network understanding.
+    </td>
+  </tr>
 
----
+  <tr>
+    <td width="22%"><b>Year 2</b><br/>Data & Business Foundation</td>
+    <td>
+      <b>Statistics · Mathematics · Business Principles · Database · Big Data</b><br/>
+      Developed core data analysis skills and learned how technology connects with business operations.
+    </td>
+  </tr>
 
-### 2. Year 2 — Data & Business Foundation
-**Learning:** Statistics, Mathematics, Business Principles, Database, Big Data  
-**Built:** Data analysis foundation and business problem understanding.
+  <tr>
+    <td width="22%"><b>Career Practicum</b><br/>Enterprise Experience</td>
+    <td>
+      <b>IHI & Aster internship-based project</b><br/>
+      Worked as a <b>data analyst</b> on bridge risk analysis and business proposal development.<br/>
+      <b>Result:</b> Team ranked <b>3rd</b> and received <b>95/100</b>.<br/>
+      This experience helped me understand enterprise business problems, infrastructure risk, and data-driven proposal design.
+    </td>
+  </tr>
 
----
+  <tr>
+    <td width="22%"><b>Turning Point</b><br/>AI Ethics & XAI</td>
+    <td>
+      <b>AI & Intelligent Product Development</b><br/>
+      Became interested in AI ethics, Explainable AI, and human-centered AI systems.
+    </td>
+  </tr>
 
-### 3. Career Practicum — Enterprise Problem Experience
-**Project:** IHI & Aster internship-based project  
-**Role:** Data analyst  
-**Work:** Bridge risk analysis and business proposal development  
-**Result:** Team ranked **3rd** and received **95/100**  
-**Built:** Understanding of enterprise business problems, infrastructure risk, and data-driven proposal design.
+  <tr>
+    <td width="22%"><b>Year 3</b><br/>Early Graduation / Research</td>
+    <td>
+      <b>Bayesian Network + Genetic Algorithm for interpretable machine learning</b><br/>
+      Started thesis research on interpretable ML and probabilistic reasoning.<br/>
+      <b>Status:</b> CIDM 2026 paper submitted; result pending.
+    </td>
+  </tr>
 
----
-
-### 4. Turning Point — AI Ethics & Explainable AI
-**Course:** AI & Intelligent Product Development  
-**Built:** Interest in AI ethics, Explainable AI, and human-centered AI systems.
-
----
-
-### 5. Year 3 / Early Graduation — Research Direction
-**Research:** Bayesian Network + Genetic Algorithm for interpretable machine learning  
-**Status:** CIDM 2026 paper submitted; result pending  
-**Built:** Research direction in interpretable ML and probabilistic reasoning.
-
----
-
-### 6. Current Focus — Applied AI / Data
-**Learning:** Mining Unstructured Data, Business Analytics & AI, Customer Analytics & AI, Generative AI  
-**Direction:** Applied AI for business digitalization, positive computing, and ethical AI solutions.
-
-</div>
+  <tr>
+    <td width="22%"><b>Current Focus</b><br/>Applied AI/Data</td>
+    <td>
+      <b>Mining Unstructured Data · Business Analytics & AI · Customer Analytics & AI · Generative AI</b><br/>
+      Developing toward Applied AI for business digitalization, positive computing, ethical AI, and explainable AI/Data solutions.
+    </td>
+  </tr>
+</table>
 
 ---
 
