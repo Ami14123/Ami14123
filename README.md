@@ -1,51 +1,14 @@
 # Hi, I'm Ami 👋
 
-## Applied AI / Data Talent 
+## Applied AI / Data Talent in Development
 
-I am a Digital Business & Innovation student 
-+ learning advanced technologies to digitalize business operations and solve real business problems.
+I am a Digital Business & Innovation student learning advanced technologies to digitalize business operations and solve real business problems.
 
-My current focus and developing pathway are Data analytics, AI for Positive Computing, AI for Enterprise Digital transformation.
+My current focus and developing pathway are **Data Analytics, AI for Positive Computing, AI Agents, Explainable AI, and Enterprise Digital Transformation**.
 
-I want to connect business problems, data, AI systems, psychology and ethics for AI solutions.
-
----
-
-## My Learning Journey
-
-## My Learning Journey
-
-```mermaid
-timeline
-    title From Digital Business to Applied AI/Data
-
-    Year 1 : Python, R, Computer Networking
-           : Built technical foundation
-
-    Year 2 : Statistics, Mathematics, Business Principles
-           : Database and Big Data
-           : Built data and business foundation
-
-    Career Practicum : IHI & Aster project
-                     : Worked on bridge risk analysis and business proposal
-                     : Team ranked 3rd with 95/100
-
-    Turning Point : AI & Intelligent Product Development
-                  : Became interested in AI ethics and Explainable AI
-
-    Year 3 / Early Graduation : Thesis on Bayesian Network + Genetic Algorithm
-                              : CIDM 2026 paper submission
-                              : Research direction in interpretable machine learning
-
-    Current Focus : Mining Unstructured Data
-                  : Business Analytics & AI
-                  : Customer Analytics & AI
-                  : Generative AI
-                  : Applied AI for business digitalization
+I want to connect **business problems, data, AI systems, psychology, and ethics** to create practical and explainable AI solutions.
 
 ---
-
-## Technical Skills
 
 ## Technical Skills
 
@@ -73,7 +36,51 @@ timeline
 
 ---
 
-## Featured Projects
+## My Learning Journey
+
+<div align="left">
+
+### 1. Year 1 — Technical Foundation
+**Learning:** Python, R, Computer Networking  
+**Built:** Basic programming, statistical thinking, and networking foundation.
+
+---
+
+### 2. Year 2 — Data & Business Foundation
+**Learning:** Statistics, Mathematics, Business Principles, Database, Big Data  
+**Built:** Data analysis foundation and business problem understanding.
+
+---
+
+### 3. Career Practicum — Enterprise Problem Experience
+**Project:** IHI & Aster internship-based project  
+**Role:** Data analyst  
+**Work:** Bridge risk analysis and business proposal development  
+**Result:** Team ranked **3rd** and received **95/100**  
+**Built:** Understanding of enterprise business problems, infrastructure risk, and data-driven proposal design.
+
+---
+
+### 4. Turning Point — AI Ethics & Explainable AI
+**Course:** AI & Intelligent Product Development  
+**Built:** Interest in AI ethics, Explainable AI, and human-centered AI systems.
+
+---
+
+### 5. Year 3 / Early Graduation — Research Direction
+**Research:** Bayesian Network + Genetic Algorithm for interpretable machine learning  
+**Status:** CIDM 2026 paper submitted; result pending  
+**Built:** Research direction in interpretable ML and probabilistic reasoning.
+
+---
+
+### 6. Current Focus — Applied AI / Data
+**Learning:** Mining Unstructured Data, Business Analytics & AI, Customer Analytics & AI, Generative AI  
+**Direction:** Applied AI for business digitalization, positive computing, and ethical AI solutions.
+
+</div>
+
+---
 
 ## Featured Projects
 
@@ -101,28 +108,29 @@ flowchart TD
     E --> E1[Diagram-based storytelling]
     E --> E2[Project case studies]
     E --> E3[Applied AI direction]
+```
 
-
-```markdown
 ### Safe Multi-Agent ElderCare Assistant
 **Role:** Individual project  
-**Focus:** Hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, caregiver escalation, technical trace  
+**Focus:** Hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, caregiver escalation, and technical trace  
 **Value:** Supports elderly users with safer, explainable next-step guidance.
 
 ### Bridge Monitoring Intelligence
 **Role:** Collaborated project / IHI & Aster Career Practicum  
-**Focus:** Bridge risk analysis, inspection prioritization, business proposal  
-**Result:** Data analyst role; team ranked **3rd** and received **95/100**.
+**Focus:** Bridge risk analysis, inspection prioritization, and business proposal  
+**Result:** Data analyst role. Team ranked **3rd** and received **95/100**.
 
 ### Interpretable ML Research: Bayesian Network + Genetic Algorithm
 **Role:** Collaborated research project / thesis direction  
-**Focus:** Interpretable machine learning, probabilistic reasoning, explainable prediction pathways  
+**Focus:** Interpretable machine learning, probabilistic reasoning, and explainable prediction pathways  
 **Status:** Paper submitted to **CIDM 2026**; result pending.
 
 ### AI Portfolio Website
 **Role:** Individual project  
-**Focus:** Diagram-based portfolio, project storytelling, GitHub case studies  
+**Focus:** Diagram-based portfolio, project storytelling, GitHub case studies, and personal AI direction  
 **Value:** Communicates my Applied AI/Data direction clearly.
+
+---
 
 <details>
 <summary><b>Other Class Projects</b></summary>
@@ -135,6 +143,22 @@ flowchart TD
 | **Student Success Prediction** | Class project | ML pipeline, feature engineering, recall-focused evaluation, business interpretation | Built an at-risk student prediction pipeline for early intervention support. |
 
 </details>
+
+---
+
+## My AI Project Pattern
+
+```mermaid
+flowchart LR
+    A[Business / User Problem] --> B[Data or Knowledge Understanding]
+    B --> C[AI / ML Pipeline Design]
+    C --> D[Prototype]
+    D --> E[Evaluation]
+    E --> F[Explainability]
+    F --> G[Business or Social Value]
+    G --> H[Future Enterprise Roadmap]
+```
+
 ---
 
 ## Development Approach
@@ -158,5 +182,10 @@ My next growth areas are:
 - monitoring,
 - and production-level AI delivery.
 
+---
 
+## Current Direction
 
+I want to connect **business problems, data, AI systems, psychology, and ethics** to create explainable and practical AI solutions.
+
+My long-term goal is to become an **Applied AI Engineer and Researcher** who can solve business and social problems with AI ethically and effectively.
