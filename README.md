@@ -18,13 +18,10 @@ I want to connect **business problems, data, AI systems, psychology, and ethics*
 ### AI / Data / Machine Learning
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn)
-![XGBoost](https://img.shields.io/badge/XGBoost-ML%20Modeling-orange?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple?style=for-the-badge)
 
 ### RAG / AI Agents / Prototyping
-![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-AI%20Agents-2E8B57?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-0052CC?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)
