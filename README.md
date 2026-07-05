@@ -222,6 +222,6 @@ My next growth areas are:
 
 <br>
 
-My long-term goal is to become an **Data science/ AI Researcher** who can solve business and social problems with AI ethically and effectively.
+My long-term goal is to become an **Data scientist/ AI Researcher** who can solve business and social problems with AI ethically and effectively.
 
 </details>
