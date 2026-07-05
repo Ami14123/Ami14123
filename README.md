@@ -134,17 +134,19 @@ flowchart TD
 **Role:** Individual project  
 **Focus:** Hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, caregiver escalation, and technical trace  
 **Value:** Supports elderly users with safer, explainable next-step guidance.
+**Link:** [View project repository](https://github.com/Ami14123/Explanable-Eldercare-Agent/tree/feature/xai-explanations)
 
 ### Bridge Monitoring Intelligence
 **Role:** Collaborated project / IHI & Aster Career Practicum  
 **Focus:** Bridge risk analysis, inspection prioritization, and business proposal  
 **Result:** Data analyst role. Team ranked **3rd** and received **95/100**.
+**Link:** [View project repository](https://github.com/Ami14123/Explanable-Eldercare-Agent/tree/feature/xai-explanations)
 
 ### Interpretable ML Research: Bayesian Network + Genetic Algorithm
 **Role:** Collaborated research project / thesis direction  
 **Focus:** Interpretable machine learning, probabilistic reasoning, and explainable prediction pathways  
 **Status:** Paper submitted to **CIDM 2026**; result pending.
-
+**Link:** [View project repository](https://github.com/Ami14123/Explanable-Eldercare-Agent/tree/feature/xai-explanations)
 
 
 </details>
