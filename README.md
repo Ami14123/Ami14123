@@ -1,6 +1,6 @@
 # Hi, I'm Ami 👋
 
-## Applied AI / Data Talent in Development
+## Applied AI / Data Student in Development
 
 I am a Digital Business & Innovation student learning advanced technologies to digitalize business operations and solve real business problems.
 
@@ -194,18 +194,18 @@ Every project follows the same thinking process:
 
 <br>
 
-I am still developing my coding depth, and I use a structured, AI-assisted development approach to build readable AI/Data prototypes.
-
+P/s
 My current strengths are:
 - understanding business or user problems,
-- designing AI/ML workflows,
+- understand and design AI/ML workflows,
 - researching suitable technical patterns,
-- building readable prototypes,
-- documenting architecture,
 - evaluating model behavior,
+- building readable prototypes with the help of Generative AI and coding agents
+- documenting architecture,
 - and explaining business value.
 
 My next growth areas are:
+- Improve traditional coding
 - software engineering depth,
 - testing,
 - cloud deployment,
