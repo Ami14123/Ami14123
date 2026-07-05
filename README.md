@@ -6,7 +6,7 @@ I am a Digital Business & Innovation student learning advanced technologies to d
 
 My current focus and developing pathway are **Data Analytics, AI for Positive Computing, AI Agents, Explainable AI, and Enterprise Digital Transformation**.
 
-I want to connect **business problems, data, AI systems, psychology, and ethics** to create practical and explainable AI solutions.
+I want to connect **business problems, data, AI systems and ethics** to create practical and explainable AI solutions.
 
 ---
 
@@ -222,8 +222,6 @@ My next growth areas are:
 
 <br>
 
-I want to connect **business problems, data, AI systems, psychology, and ethics** to create explainable and practical AI solutions.
-
-My long-term goal is to become an **Applied AI Engineer and Researcher** who can solve business and social problems with AI ethically and effectively.
+My long-term goal is to become an **Data science/ AI Researcher** who can solve business and social problems with AI ethically and effectively.
 
 </details>
