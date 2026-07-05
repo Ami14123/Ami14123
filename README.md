@@ -93,9 +93,13 @@ I want to connect **business problems, data, AI systems, psychology, and ethics*
   </tr>
 </table>
 
----
 
-## Featured Projects
+---
+<details>
+<summary><b>Featured Projects</b></summary>
+
+<br>
+
 
 ```mermaid
 flowchart TD
@@ -133,6 +137,9 @@ flowchart TD
 **Role:** Collaborated research project / thesis direction  
 **Focus:** Interpretable machine learning, probabilistic reasoning, and explainable prediction pathways  
 **Status:** Paper submitted to **CIDM 2026**; result pending.
+
+</details>
+
 ---
 
 <details>
