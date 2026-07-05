@@ -10,7 +10,10 @@ I want to connect **business problems, data, AI systems, psychology, and ethics*
 
 ---
 
-## Technical Skills
+<details open>
+<summary><b>Technical Skills</b></summary>
+
+<br>
 
 ### AI / Data / Machine Learning
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
@@ -34,9 +37,14 @@ I want to connect **business problems, data, AI systems, psychology, and ethics*
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio%20Documentation-181717?style=for-the-badge&logo=github)
 
+</details>
+
 ---
 
-## My Learning Journey
+<details>
+<summary><b>My Learning Journey</b></summary>
+
+<br>
 
 > From Digital Business & Innovation to Applied AI/Data — building the ability to connect business problems, data, AI systems, and explainability.
 
@@ -93,13 +101,14 @@ I want to connect **business problems, data, AI systems, psychology, and ethics*
   </tr>
 </table>
 
+</details>
 
 ---
-<details>
+
+<details open>
 <summary><b>Featured Projects</b></summary>
 
 <br>
-
 
 ```mermaid
 flowchart TD
@@ -121,6 +130,10 @@ flowchart TD
     D --> D1[Bayesian Network]
     D --> D2[Genetic Algorithm]
     D --> D3[Explainable prediction pathways]
+
+    E --> E1[Diagram-based storytelling]
+    E --> E2[Project case studies]
+    E --> E3[Applied AI direction]
 ```
 
 ### Safe Multi-Agent ElderCare Assistant
@@ -137,6 +150,11 @@ flowchart TD
 **Role:** Collaborated research project / thesis direction  
 **Focus:** Interpretable machine learning, probabilistic reasoning, and explainable prediction pathways  
 **Status:** Paper submitted to **CIDM 2026**; result pending.
+
+### AI Portfolio Website
+**Role:** Individual project  
+**Focus:** Diagram-based portfolio, project storytelling, GitHub case studies, and personal AI direction  
+**Value:** Communicates my Applied AI/Data direction clearly.
 
 </details>
 
@@ -156,7 +174,10 @@ flowchart TD
 
 ---
 
-## My AI Project Pattern
+<details>
+<summary><b>My AI Project Pattern</b></summary>
+
+<br>
 
 ```mermaid
 flowchart LR
@@ -169,9 +190,18 @@ flowchart LR
     G --> H[Future Enterprise Roadmap]
 ```
 
+Every project follows the same thinking process:
+
+**Business/User Problem → Data/Knowledge Understanding → AI/ML Design → Prototype → Evaluation → Explainability → Business/Social Value → Future Enterprise Roadmap**
+
+</details>
+
 ---
 
-## Development Approach
+<details>
+<summary><b>Development Approach</b></summary>
+
+<br>
 
 I am still developing my coding depth, and I use a structured, AI-assisted development approach to build readable AI/Data prototypes.
 
@@ -192,10 +222,17 @@ My next growth areas are:
 - monitoring,
 - and production-level AI delivery.
 
+</details>
+
 ---
 
-## Current Direction
+<details open>
+<summary><b>Current Direction</b></summary>
+
+<br>
 
 I want to connect **business problems, data, AI systems, psychology, and ethics** to create explainable and practical AI solutions.
 
 My long-term goal is to become an **Applied AI Engineer and Researcher** who can solve business and social problems with AI ethically and effectively.
+
+</details>
