@@ -1,68 +1,82 @@
-# Hi, I'm Ami
+# Hi, I'm Ami 👋
 
-## Applied AI Engineer in Development
+## Applied AI / Data Talent in Development
 
-I combine data, business understanding, and human behavior to build explainable AI systems that create practical value.
+I am a Digital Business & Innovation student learning advanced technologies to digitalize business operations and solve real business problems.
 
-My academic background is in Digital Business and Innovation, with a focus on artificial intelligence and digital innovation.
+My current focus is Applied AI, Explainable AI, Generative AI, RAG, GraphRAG, AI agents, business analytics, and ethical AI development.
 
-I am particularly interested in:
+I want to connect business problems, data, AI systems, and explainability to create ethical and practical AI solutions.
 
-- Data analytics and machine learning
-- Explainable AI
-- RAG and multi agent systems
-- Human centered AI
-- Business insights from data
-- Responsible AI systems
+---
 
-## How I Approach AI Projects
+## My Learning Journey
 
-I believe AI projects should begin with a real human or business problem.
+| Stage | Learning / Experience | What it built |
+|---|---|---|
+| Year 1 | Python, R, Computer Networking | Technical foundation |
+| Year 2 | Statistics, Mathematics, Business Principles, Database, Big Data | Data and business foundation |
+| Career Practicum | IHI & Aster school-held internship project | Enterprise problem understanding, bridge risk analysis, business proposal |
+| AI Product Course | AI & Intelligent Product Development | Interest in AI ethics and Explainable AI |
+| Year 3 / Early Graduation | Thesis on Bayesian Network + Genetic Algorithm, CIDM 2026 paper submission | Research direction in interpretable machine learning |
+| Current Focus | Mining Unstructured Data, Business Analytics & AI, Customer Analytics & AI, Generative AI | Applied AI portfolio and enterprise AI direction |
 
-My process is:
+---
 
-**Business problem → Data understanding → Data cleaning → Baseline → Model comparison → Evaluation → Explainability → Business insight → Deployment roadmap**
+## Technical Skills
 
-I do not want to build systems that only produce predictions. I want users to understand why a result was produced, what evidence supports it, and when human judgment is still required.
+### Python / AI / Data
+- Data analysis: `pandas`, `numpy`
+- Machine learning: `scikit-learn`, `xgboost`, `joblib`
+- Data visualization: `matplotlib`, `seaborn`, `plotly`
+- NLP / Text mining: `TF-IDF`, `nltk`, `spaCy`, `sentence-transformers`
+- RAG / Vector search: `LangChain`, `FAISS`, `ChromaDB`
+- AI agents: `LangGraph`, `OpenRouter API`, prompt engineering
+- Explainability: `SHAP`, feature importance, Bayesian Network reasoning
+- Prototype development: `FastAPI`, `Streamlit`
+- Data storage: `SQLite`
+
+### Other Tools
+- SQL: basic querying, filtering, joins, database concepts
+- R: statistical modeling, regression analysis, data visualization
+- Git/GitHub: version control, documentation, portfolio management
+
+---
 
 ## Featured Projects
 
-### Explainable Customer Review Intelligence
+### 1. Safe Multi-Agent ElderCare Assistant
+A controlled and explainable AI agent system for elderly care.
 
-A machine learning project that analyzes restaurant reviews to identify customer dissatisfaction, explain important prediction factors, and translate customer feedback into business recommendations.
+**Focus:** hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, caregiver escalation, and technical trace.
 
-### Safe Multi Agent ElderCare Assistant
+### 2. Explainable Bridge Monitoring Intelligence
+An enterprise AI prototype for infrastructure monitoring and inspection support.
 
-A human centered AI system that routes elderly users to specialist agents for daily support, scam prevention, emergency guidance, and caregiver communication.
+**Focus:** high-risk detection, recall-focused evaluation, explainability, inspection priority, and engineer-facing reports.
 
-### Explainable Enterprise Knowledge Copilot
+### 3. Explainable Restaurant Review Intelligence
+An NLP project that detects negative customer reviews and translates complaint patterns into business recommendations.
 
-An internal AI assistant concept designed to help employees find company information and help managers identify knowledge gaps and workflow problems.
+**Focus:** TF-IDF, baseline modeling, model comparison, target leakage prevention, and explainability.
 
-## Current Skills
+### 4. Explainable Student Success Prediction
+A machine learning pipeline for detecting at-risk students in online learning environments.
 
-- Python
-- Pandas
-- Scikit learn
-- Data cleaning
-- Machine learning evaluation
-- Streamlit
-- RAG
-- Agent routing
-- Git and GitHub
-- Explainability basics
+**Focus:** data validation, feature engineering, baseline comparison, recall-focused evaluation, and business interpretation.
 
-## Currently Developing
+---
 
-- SQL
-- Testing
-- FastAPI
-- Docker
-- MLOps
-- Cloud deployment
-- Big Data processing
-- Production monitoring
+## My AI Project Pattern
 
-## Current Direction
+Every project follows the same thinking process:
 
-I want to grow from building local AI prototypes into delivering reliable enterprise AI systems using scalable data platforms, cloud infrastructure, MLOps, and production monitoring.
+```text
+Business / User Problem
+→ Data or Knowledge Understanding
+→ AI / ML Pipeline Design
+→ Prototype
+→ Evaluation
+→ Explainability
+→ Business or Social Value
+→ Future Enterprise Roadmap
