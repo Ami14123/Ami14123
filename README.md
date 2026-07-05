@@ -104,10 +104,6 @@ flowchart TD
     D --> D1[Bayesian Network]
     D --> D2[Genetic Algorithm]
     D --> D3[Explainable prediction pathways]
-
-    E --> E1[Diagram-based storytelling]
-    E --> E2[Project case studies]
-    E --> E3[Applied AI direction]
 ```
 
 ### Safe Multi-Agent ElderCare Assistant
@@ -124,12 +120,6 @@ flowchart TD
 **Role:** Collaborated research project / thesis direction  
 **Focus:** Interpretable machine learning, probabilistic reasoning, and explainable prediction pathways  
 **Status:** Paper submitted to **CIDM 2026**; result pending.
-
-### AI Portfolio Website
-**Role:** Individual project  
-**Focus:** Diagram-based portfolio, project storytelling, GitHub case studies, and personal AI direction  
-**Value:** Communicates my Applied AI/Data direction clearly.
-
 ---
 
 <details>
