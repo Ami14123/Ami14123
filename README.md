@@ -131,9 +131,6 @@ flowchart TD
     D --> D2[Genetic Algorithm]
     D --> D3[Explainable prediction pathways]
 
-    E --> E1[Diagram-based storytelling]
-    E --> E2[Project case studies]
-    E --> E3[Applied AI direction]
 ```
 
 ### Safe Multi-Agent ElderCare Assistant
