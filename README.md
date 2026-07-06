@@ -6,7 +6,9 @@ I am a Digital Business & Innovation student.
 I am learning advanced technologies to digitalize business operations and solve real business problems.
 
 My current focus is **Data Analytics and Explanable- Practical AI systems for Enterprise Digital Transformation**.
+
 My applied area is **customer analytics**, where I use data to understand customer behavior and support better business decisions.
+
 My developing pathway is **Positive Computing and Cogitive Computing**  ===> build human-centered AI systems
 
 [Alert!] I love diagram-- mindmap, therefore, most of the documents are filled with diagrams. Thank you!!!
@@ -136,6 +138,7 @@ flowchart TD
 ### Safe Multi-Agent ElderCare Assistant
 **Role:** Individual project  
 **Focus:** Hybrid routing( ML-based + rule-based), RAG, lightweight GraphRAG, memory, guardrails and caregiver escalation
+
 **Value:** Supports elderly users with safer, explainable next-step guidance.
 **Link:** [View project repository](https://github.com/Ami14123/Explanable-Eldercare-Agent/tree/feature/xai-explanations)
 
