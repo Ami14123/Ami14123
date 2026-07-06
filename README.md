@@ -24,7 +24,6 @@ My developing pathway is **Positive Computing and Cogitive Computing**  ===> bui
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple?style=for-the-badge)
 
 ### RAG / AI Agents / Prototyping
 ![LangGraph](https://img.shields.io/badge/LangGraph-AI%20Agents-2E8B57?style=for-the-badge)
