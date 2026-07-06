@@ -211,7 +211,8 @@ My current strengths are:
 - and explaining business value.
 
 My next growth areas are:
-- Improve traditional coding
+
+- Improve traditional coding, maths foundation
 - Improve System Design
 - Improve skilsl in testing - security - cloud deployment
 - practical, interpretable, production-level AI delivery.
