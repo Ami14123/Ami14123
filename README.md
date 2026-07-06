@@ -72,7 +72,7 @@ My developing pathway is **Positive Computing and Cogitive Computing**  ===> bui
     <td>
       <b>IHI & Aster internship-based project</b><br/>
       Worked as a <b>data analyst</b> on bridge risk analysis and business proposal development.<br/>
-      <b>Result:</b> Team received <b>95/100</b>.<br/>
+      <b>Result:</b> List of Maintainance-needed bridge Proposal and Team received <b>95/100</b>.<br/>
       This experience helped me understand enterprise business problems, infrastructure risk, and data-driven proposal design.
     </td>
   </tr>
