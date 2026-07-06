@@ -142,16 +142,16 @@ flowchart TD
 **Value:** Supports elderly users with safer, explainable next-step guidance.
 **Link:** [View project repository](https://github.com/Ami14123/Explanable-Eldercare-Agent/tree/feature/xai-explanations)
 
-### Bridge Monitoring Intelligence
-**Role:** Collaborated project / IHI & Aster Career Practicum  
-**Focus:** Bridge risk analysis, inspection prioritization, and business proposal  
-**Result:** Data analyst role. Team received **95/100**.
-**Link:** [View project repository](https://github.com/Ami14123/Bridge_risk_detection_for_IHI_corp)
-
 ### Interpretable ML Research: Bayesian Network + Genetic Algorithm
-**Role:** Collaborated research project / thesis direction  
+**Role:**  thesis direction/  Collaborated research project 
 **Focus:** Interpretable machine learning, probabilistic reasoning, and explainable prediction pathways  
 **Status:** Paper submitted to **ICDM 2026**; result pending.
+
+### Bridge Monitoring Intelligence 
+**Role:** Collaborated project / IHI Corporation Career Practicum  / First hands-on experience with Enterprise Tech Solution
+**Focus:** Bridge risk analysis, inspection prioritization, and business proposal  
+**Result:** Data analyst role. Team received **95/100**.
+
 
 
 </details>
