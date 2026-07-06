@@ -202,11 +202,12 @@ flowchart LR
 
 P/s
 My current strengths are:
+
+- can work and learn independently as well as in coordination
 - understanding business or user problems,
 - understand and design AI/ML workflows,
 - researching suitable technical patterns,
 - evaluating model behavior,
-- building readable prototypes with the help of Generative AI and coding agents
 - documenting architecture,
 - and explaining business value.
 
