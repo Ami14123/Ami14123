@@ -1,12 +1,15 @@
 # Hi, I'm Ami 👋
 
-## Applied AI / Data Student in Development
+## Applied AI / Data Enthusiast 
 
-I am a Digital Business & Innovation student learning advanced technologies to digitalize business operations and solve real business problems.
+I am a Digital Business & Innovation student. 
+I am learning advanced technologies to digitalize business operations and solve real business problems.
 
-My current focus and developing pathway are **Data Analytics, AI for Positive Computing, AI Agents, Explainable AI, and Enterprise Digital Transformation**.
+My current focus is **Data Analytics and Explanable- Practical AI systems for Enterprise Digital Transformation**.
+My applied area is **customer analytics**, where I use data to understand customer behavior and support better business decisions.
+My developing pathway is **Positive Computing and Cogitive Computing**  ===> build human-centered AI systems
 
-Spoiler Alert: I love diagram-- mindmap, therefore, most of the documents are filled with diagrams. Thank you!!!
+[Alert!] I love diagram-- mindmap, therefore, most of the documents are filled with diagrams. Thank you!!!
 
 ---
 
@@ -43,13 +46,13 @@ Spoiler Alert: I love diagram-- mindmap, therefore, most of the documents are fi
 
 <br>
 
-> From Digital Business & Innovation to Applied AI/Data — building the ability to connect business problems, data, AI systems, and explainability.
+> From Existing business Problem -> DIgital( AI) solutions -> Overall Business Digital transformation and achieve business goals
 
 <table>
   <tr>
     <td width="22%"><b>Year 1</b><br/>Technical Foundation</td>
     <td>
-      <b>Python · R · Computer Networking</b><br/>
+      <b>Python · R · Computer Networking · Business Principles </b><br/>
       Built my foundation in programming, statistical thinking, and basic system/network understanding.
     </td>
   </tr>
@@ -57,7 +60,7 @@ Spoiler Alert: I love diagram-- mindmap, therefore, most of the documents are fi
   <tr>
     <td width="22%"><b>Year 2</b><br/>Data & Business Foundation</td>
     <td>
-      <b>Statistics · Mathematics · Business Principles · Database · Big Data</b><br/>
+      <b>Statistics · Mathematics · Database_Big Data</b><br/>
       Developed core data analysis skills and learned how technology connects with business operations.
     </td>
   </tr>
@@ -92,7 +95,7 @@ Spoiler Alert: I love diagram-- mindmap, therefore, most of the documents are fi
   <tr>
     <td width="22%"><b>Current Focus</b><br/>Applied AI/Data</td>
     <td>
-      <b>Mining Unstructured Data · Business Analytics & AI · Customer Analytics & AI · Generative AI</b><br/>
+      <b>Mining Unstructured Data · Business Analytics & AI · Customer Analytics & AI · Generative AI and application</b><br/>
       Developing toward Applied AI for business digitalization, positive computing, ethical AI, and explainable AI/Data solutions.
     </td>
   </tr>
@@ -132,20 +135,20 @@ flowchart TD
 
 ### Safe Multi-Agent ElderCare Assistant
 **Role:** Individual project  
-**Focus:** Hybrid routing, RAG, lightweight GraphRAG, memory, guardrails, caregiver escalation, and technical trace  
+**Focus:** Hybrid routing( ML-based + rule-based), RAG, lightweight GraphRAG, memory, guardrails and caregiver escalation
 **Value:** Supports elderly users with safer, explainable next-step guidance.
 **Link:** [View project repository](https://github.com/Ami14123/Explanable-Eldercare-Agent/tree/feature/xai-explanations)
 
 ### Bridge Monitoring Intelligence
 **Role:** Collaborated project / IHI & Aster Career Practicum  
 **Focus:** Bridge risk analysis, inspection prioritization, and business proposal  
-**Result:** Data analyst role. Team ranked **3rd** and received **95/100**.
+**Result:** Data analyst role. Team received **95/100**.
 **Link:** [View project repository](https://github.com/Ami14123/Bridge_risk_detection_for_IHI_corp)
 
 ### Interpretable ML Research: Bayesian Network + Genetic Algorithm
 **Role:** Collaborated research project / thesis direction  
 **Focus:** Interpretable machine learning, probabilistic reasoning, and explainable prediction pathways  
-**Status:** Paper submitted to **CIDM 2026**; result pending.
+**Status:** Paper submitted to **ICDM 2026**; result pending.
 
 
 </details>
@@ -159,7 +162,7 @@ flowchart TD
 
 | Project | Role | Focus | Result |
 |---|---|---|---|
-| **Restaurant Review Intelligence** | Class project | NLP, TF-IDF, model comparison, target leakage prevention, explainability | Built a review intelligence pipeline to detect negative reviews and extract complaint patterns. |
+| **Restaurant Review Intelligence** | Class project | NLP, TF-IDF, model comparison| Built a review intelligence pipeline to detect negative reviews and extract complaint patterns. |
 | **Student Success Prediction** | Class project | ML pipeline, feature engineering, recall-focused evaluation, business interpretation | Built an at-risk student prediction pipeline for early intervention support. |
 
 </details>
@@ -206,12 +209,9 @@ My current strengths are:
 
 My next growth areas are:
 - Improve traditional coding
-- software engineering depth,
-- testing,
-- cloud deployment,
-- security,
-- monitoring,
-- and production-level AI delivery.
+- Improve System Design
+- Improve skilsl in testing - security - cloud deployment
+- practical, interpretable, production-level AI delivery.
 
 </details>
 
@@ -222,6 +222,6 @@ My next growth areas are:
 
 <br>
 
-My long-term goal is to become an **Data scientist/ AI Researcher** who can solve business and social problems with AI ethically and effectively.
+My long-term goal is to become an **Data scientist/ AI Researcher in Postive computing** who can solve business and social problems with AI ethically and effectively.
 
 </details>
